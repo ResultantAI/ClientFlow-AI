@@ -14,3 +14,5 @@ git clone https://github.com/ResultantAI/ClientFlow-AI.git
 cd ClientFlow-AI
 pip install -r requirements.txt
 python app.py
+## API Endpoints 
+ -  → Returns lead score based on data
